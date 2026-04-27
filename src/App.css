@@ -1,0 +1,24 @@
+.app {
+  text-align: center;
+  margin-top: 40px;
+  font-family: Arial;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 10px;
+}
+
+.task {
+  margin: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
